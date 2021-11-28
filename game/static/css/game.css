@@ -6,6 +6,12 @@
     user-select: none;
 }
 
+.ac-game-menu-title {
+    text-align: center;
+    font-size: 6vh;
+    color: aqua;
+}
+
 .ac-game-menu-field {
     width: 20vw;
     position: relative;
